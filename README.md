@@ -11,7 +11,7 @@ these times.
 * Which departments have the highest frequency of product orders.
 * The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ.
 
-# Data 
+# Data sets
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.
 * Instacart data [dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 * The Instacart Online Grocery Shopping [Data set](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
