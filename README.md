@@ -13,9 +13,9 @@ these times.
 
 # Data 
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.
-Instacart data [dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-The Instacart Online Grocery Shopping [Data set](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
-A customer data set **created** and included for the purpose of this [project](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
+* Instacart data [dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+* The Instacart Online Grocery Shopping [Data set](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
+* A customer data set **created** and included for the purpose of this [project](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
 
 # Tools
 Python libraries were used. 
